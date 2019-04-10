@@ -104,7 +104,7 @@
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//piwik.tedic.org/";
+    var u="//piwik.tedic.net/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', 57]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
@@ -128,7 +128,7 @@
 <body id="page" class="<?php echo $body_class; ?>">
 
 <!-- Piwik -->
-<noscript><p><img src="//piwik.tedic.org/piwik.php?idsite=57" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//piwik.tedic.net/piwik.php?idsite=57" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
 	<div class="jquery-bar navbar navbar-fixed-top">
